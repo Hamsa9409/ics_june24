@@ -1,0 +1,7 @@
+C:\june batch\c sharp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\june batch\c sharp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\june batch\c sharp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\june batch\c sharp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\june batch\c sharp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\june batch\c sharp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\june batch\c sharp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
