@@ -10,8 +10,24 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("welcome to csharp clases...");
+            /* Console.WriteLine("enter your name");
+             string yourname = Console.ReadLine();
+             Console.WriteLine("enter your age");
+             string age = Console.ReadLine();
+             Console.WriteLine("Your Name  :" + yourname + " age " + age);
+             //nulleg.nullexample();*/
+            Console.WriteLine("hello all, welcome..");
+            
             Console.Read();
         }
+        
+            
+        
+        
+       
+        
+
+
+        
     }
 }

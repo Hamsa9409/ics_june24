@@ -1,0 +1,7 @@
+C:\june batch\c sharp\dotnet_1\dotnet_1\bin\Debug\dotnet_1.exe.config
+C:\june batch\c sharp\dotnet_1\dotnet_1\bin\Debug\dotnet_1.exe
+C:\june batch\c sharp\dotnet_1\dotnet_1\bin\Debug\dotnet_1.pdb
+C:\june batch\c sharp\dotnet_1\dotnet_1\obj\Debug\dotnet_1.csproj.AssemblyReference.cache
+C:\june batch\c sharp\dotnet_1\dotnet_1\obj\Debug\dotnet_1.csproj.CoreCompileInputs.cache
+C:\june batch\c sharp\dotnet_1\dotnet_1\obj\Debug\dotnet_1.exe
+C:\june batch\c sharp\dotnet_1\dotnet_1\obj\Debug\dotnet_1.pdb
