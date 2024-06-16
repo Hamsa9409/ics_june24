@@ -13,10 +13,12 @@ namespace dotnet_1
             // simpleconvr();
             // boxing_unboxing();
             ternaryfunction();
+          // nullable. nullexample();
             
             //Type_conversion typecnvr = new Type_conversion();
             //bool res = typecnvr.ternaryfunction();
             //Console.WriteLine(typecnvr.ternaryfunction);
+
             Console.Read();
         }
         static void ternaryfunction()

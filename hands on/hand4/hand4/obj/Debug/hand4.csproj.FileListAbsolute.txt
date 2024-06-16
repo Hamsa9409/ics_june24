@@ -1,0 +1,7 @@
+C:\june batch\c sharp\hand4\hand4\bin\Debug\hand4.exe.config
+C:\june batch\c sharp\hand4\hand4\bin\Debug\hand4.exe
+C:\june batch\c sharp\hand4\hand4\bin\Debug\hand4.pdb
+C:\june batch\c sharp\hand4\hand4\obj\Debug\hand4.csproj.AssemblyReference.cache
+C:\june batch\c sharp\hand4\hand4\obj\Debug\hand4.csproj.CoreCompileInputs.cache
+C:\june batch\c sharp\hand4\hand4\obj\Debug\hand4.exe
+C:\june batch\c sharp\hand4\hand4\obj\Debug\hand4.pdb

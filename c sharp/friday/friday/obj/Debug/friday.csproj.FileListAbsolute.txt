@@ -1,0 +1,7 @@
+C:\june batch\c sharp\friday\friday\bin\Debug\friday.exe.config
+C:\june batch\c sharp\friday\friday\bin\Debug\friday.exe
+C:\june batch\c sharp\friday\friday\bin\Debug\friday.pdb
+C:\june batch\c sharp\friday\friday\obj\Debug\friday.csproj.AssemblyReference.cache
+C:\june batch\c sharp\friday\friday\obj\Debug\friday.csproj.CoreCompileInputs.cache
+C:\june batch\c sharp\friday\friday\obj\Debug\friday.exe
+C:\june batch\c sharp\friday\friday\obj\Debug\friday.pdb

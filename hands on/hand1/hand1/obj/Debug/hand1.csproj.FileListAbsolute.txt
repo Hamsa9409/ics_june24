@@ -1,0 +1,7 @@
+C:\june batch\hands on\hand1\hand1\bin\Debug\hand1.exe.config
+C:\june batch\hands on\hand1\hand1\bin\Debug\hand1.exe
+C:\june batch\hands on\hand1\hand1\bin\Debug\hand1.pdb
+C:\june batch\hands on\hand1\hand1\obj\Debug\hand1.csproj.AssemblyReference.cache
+C:\june batch\hands on\hand1\hand1\obj\Debug\hand1.csproj.CoreCompileInputs.cache
+C:\june batch\hands on\hand1\hand1\obj\Debug\hand1.exe
+C:\june batch\hands on\hand1\hand1\obj\Debug\hand1.pdb
