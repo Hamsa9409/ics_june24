@@ -1,0 +1,7 @@
+C:\june batch\c sharp\tuesday18\tuesday18\bin\Debug\tuesday18.exe.config
+C:\june batch\c sharp\tuesday18\tuesday18\bin\Debug\tuesday18.exe
+C:\june batch\c sharp\tuesday18\tuesday18\bin\Debug\tuesday18.pdb
+C:\june batch\c sharp\tuesday18\tuesday18\obj\Debug\tuesday18.csproj.AssemblyReference.cache
+C:\june batch\c sharp\tuesday18\tuesday18\obj\Debug\tuesday18.csproj.CoreCompileInputs.cache
+C:\june batch\c sharp\tuesday18\tuesday18\obj\Debug\tuesday18.exe
+C:\june batch\c sharp\tuesday18\tuesday18\obj\Debug\tuesday18.pdb

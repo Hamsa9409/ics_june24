@@ -11,8 +11,8 @@ namespace monday17
         static void Main(string[] args)
         {
             //stringopr();
-           //struct_vs_class();
-            enumerations.enumoper();
+           struct_vs_class();
+            //enumerations.enumoper();
             Console.Read();
 
 
