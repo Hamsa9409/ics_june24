@@ -1,7 +1,0 @@
-C:\june batch\c sharp\practice\practice\bin\Debug\practice.exe.config
-C:\june batch\c sharp\practice\practice\bin\Debug\practice.exe
-C:\june batch\c sharp\practice\practice\bin\Debug\practice.pdb
-C:\june batch\c sharp\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
-C:\june batch\c sharp\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
-C:\june batch\c sharp\practice\practice\obj\Debug\practice.exe
-C:\june batch\c sharp\practice\practice\obj\Debug\practice.pdb
