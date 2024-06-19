@@ -72,9 +72,9 @@ namespace cc_1
         {
             Console.WriteLine("enter num 1");
             int num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter num 1");
+            Console.WriteLine("enter num 2");
             int num2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter num 1");
+            Console.WriteLine("enter num 3");
             int num3 = Convert.ToInt32(Console.ReadLine());
             if (num1>num2 && num1>num2)
             {
