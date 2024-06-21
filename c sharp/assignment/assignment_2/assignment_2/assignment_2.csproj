@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>assignment_2.arrayaverage</StartupObject>
+    <StartupObject>assignment_2.array_assignment</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
