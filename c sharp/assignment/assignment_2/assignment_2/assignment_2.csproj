@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>assignment_2.array_assignment</StartupObject>
+    <StartupObject>assignment_2.dayasword</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="array assignment.cs" />
     <Compile Include="arrayaverage.cs" />
     <Compile Include="copyarray.cs" />
+    <Compile Include="dayasword.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="return triple.cs" />

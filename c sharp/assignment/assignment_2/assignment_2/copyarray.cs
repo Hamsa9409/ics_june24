@@ -16,8 +16,11 @@ namespace assignment_2
             {
                 arr2[i] = arr1[i];
             }
-            Console.WriteLine("first array is " + arr1);
-            Console.WriteLine("copied array is " + arr2);
+            Console.WriteLine("the elements of the arr2:");
+            for(int i = 0; i < arr2.Length;i++)
+            {
+                Console.WriteLine(arr2[i]);
+            }
             Console.Read();
 
 
