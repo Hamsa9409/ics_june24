@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>assignment_3.test</StartupObject>
+    <StartupObject>assignment_3.testsalesdata</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Accounts.cs" />
     <Compile Include="customerdetailes.cs" />
+    <Compile Include="salesdetailes.cs" />
     <Compile Include="student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
