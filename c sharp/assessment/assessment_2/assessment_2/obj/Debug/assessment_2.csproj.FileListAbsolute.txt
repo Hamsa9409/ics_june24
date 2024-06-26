@@ -1,0 +1,7 @@
+C:\june batch\c sharp\assessment\assessment_2\assessment_2\bin\Debug\assessment_2.exe.config
+C:\june batch\c sharp\assessment\assessment_2\assessment_2\bin\Debug\assessment_2.exe
+C:\june batch\c sharp\assessment\assessment_2\assessment_2\bin\Debug\assessment_2.pdb
+C:\june batch\c sharp\assessment\assessment_2\assessment_2\obj\Debug\assessment_2.csproj.AssemblyReference.cache
+C:\june batch\c sharp\assessment\assessment_2\assessment_2\obj\Debug\assessment_2.csproj.CoreCompileInputs.cache
+C:\june batch\c sharp\assessment\assessment_2\assessment_2\obj\Debug\assessment_2.exe
+C:\june batch\c sharp\assessment\assessment_2\assessment_2\obj\Debug\assessment_2.pdb
