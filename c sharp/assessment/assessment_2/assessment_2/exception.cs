@@ -23,14 +23,7 @@ namespace assessment_2
                 
                 Console.WriteLine("Number is positive and valid!");
             }
-            catch (FormatException ex)
-            {
-                Console.WriteLine($"Error: {ex.Message}. Please enter a valid integer.");
-            }
-            catch (ArgumentException ex)
-            {
-                Console.WriteLine($"Error: {ex.Message}");
-            }
+            
             catch (Exception ex)
             {
                 Console.WriteLine($"Unexpected error: {ex.Message}");
@@ -41,10 +34,7 @@ namespace assessment_2
         
         public static void CheckPositiveNumber(int number)
         {
-            if (number > 0)
-            {
-                Console.WriteLine("number is positive");
-            }
+            
             if (number < 0)
             {
                 throw new ArgumentException("Number cannot be negative.");

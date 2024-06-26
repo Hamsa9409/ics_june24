@@ -1,0 +1,7 @@
+C:\june batch\csharp daily\practice_1\practice_1\bin\Debug\practice_1.exe.config
+C:\june batch\csharp daily\practice_1\practice_1\bin\Debug\practice_1.exe
+C:\june batch\csharp daily\practice_1\practice_1\bin\Debug\practice_1.pdb
+C:\june batch\csharp daily\practice_1\practice_1\obj\Debug\practice_1.csproj.AssemblyReference.cache
+C:\june batch\csharp daily\practice_1\practice_1\obj\Debug\practice_1.csproj.CoreCompileInputs.cache
+C:\june batch\csharp daily\practice_1\practice_1\obj\Debug\practice_1.exe
+C:\june batch\csharp daily\practice_1\practice_1\obj\Debug\practice_1.pdb

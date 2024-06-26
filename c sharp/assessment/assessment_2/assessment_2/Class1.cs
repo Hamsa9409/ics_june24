@@ -32,15 +32,14 @@ namespace assessment_2
 
             
             Console.WriteLine("Sorted Products based on Price:");
-            double totalPrice = 0;
+            
 
             foreach (var product in products)
             {
-                Console.WriteLine($"Product ID: {product.ProductId}, Product Name: {product.ProductName}, Price: {product.Price:C}");
+                Console.WriteLine($"Product ID: {product.ProductId}, Product Name: {product.ProductName}, Price: {product.Price}");
             }
 
-            Console.WriteLine("----- Total Price of all products -----");
-            Console.WriteLine($"Total Price : {totalPrice:C}");
+            
 
             
 
