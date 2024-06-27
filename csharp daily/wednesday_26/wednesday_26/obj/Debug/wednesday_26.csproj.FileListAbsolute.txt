@@ -1,0 +1,7 @@
+C:\june batch\csharp daily\wednesday_26\wednesday_26\bin\Debug\wednesday_26.exe.config
+C:\june batch\csharp daily\wednesday_26\wednesday_26\bin\Debug\wednesday_26.exe
+C:\june batch\csharp daily\wednesday_26\wednesday_26\bin\Debug\wednesday_26.pdb
+C:\june batch\csharp daily\wednesday_26\wednesday_26\obj\Debug\wednesday_26.csproj.AssemblyReference.cache
+C:\june batch\csharp daily\wednesday_26\wednesday_26\obj\Debug\wednesday_26.csproj.CoreCompileInputs.cache
+C:\june batch\csharp daily\wednesday_26\wednesday_26\obj\Debug\wednesday_26.exe
+C:\june batch\csharp daily\wednesday_26\wednesday_26\obj\Debug\wednesday_26.pdb

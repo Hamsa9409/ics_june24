@@ -26,7 +26,7 @@ namespace assessment_2
             
             catch (Exception ex)
             {
-                Console.WriteLine($"Unexpected error: {ex.Message}");
+                Console.WriteLine($" error: {ex.Message}");
             }
             Console.Read();
         }
