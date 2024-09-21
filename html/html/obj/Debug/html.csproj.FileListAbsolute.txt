@@ -1,0 +1,7 @@
+C:\june batch\html\html\bin\Debug\html.exe.config
+C:\june batch\html\html\bin\Debug\html.exe
+C:\june batch\html\html\bin\Debug\html.pdb
+C:\june batch\html\html\obj\Debug\html.csproj.AssemblyReference.cache
+C:\june batch\html\html\obj\Debug\html.csproj.CoreCompileInputs.cache
+C:\june batch\html\html\obj\Debug\html.exe
+C:\june batch\html\html\obj\Debug\html.pdb

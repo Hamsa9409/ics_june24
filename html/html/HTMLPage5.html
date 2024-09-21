@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Button Example</title>
+    <style>
+        /* Optional styling to make the button look nicer */
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        // JavaScript code to dynamically create a button and add an event listener
+        document.addEventListener('DOMContentLoaded', (event) => {
+            // Create a button element
+            const button = document.createElement('button');
+            button.textContent = 'Click Me!'; // Set button text
+            button.id = 'dynamicButton'; // Assign an ID to the button
+
+            // Append the button to the body
+            document.body.appendChild(button);
+
+            // Add a click event listener to the button
+            button.addEventListener('click', () => {
+                // Log a message to the console when the button is clicked
+                console.log('Button was clicked!');
+            });
+        });
+    </script>
+</body>
+</html>
